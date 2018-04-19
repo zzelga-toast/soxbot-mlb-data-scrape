@@ -1,0 +1,23 @@
+{
+  "name": "soxbot-mlb-data-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzelga-toast/soxbot-mlb-data-scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzelga-toast/soxbot-mlb-data-scrape/issues"
+  },
+  "homepage": "https://github.com/zzelga-toast/soxbot-mlb-data-scrape#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
